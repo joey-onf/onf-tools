@@ -1,0 +1,1 @@
+assignee=currentUser() AND OR AND (resolution IS EMPTY)

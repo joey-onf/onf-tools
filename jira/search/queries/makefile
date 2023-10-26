@@ -1,0 +1,5 @@
+# -*- makefile -*-
+
+all:
+	./xy.sh
+
